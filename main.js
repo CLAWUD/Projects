@@ -17,6 +17,10 @@ fs.readdir('/home/megh/Documents', function (err, files) {
 		// find JS files and move them to Documents/Js
 		if ( file.includes(".js") === true ) {
 			console.log(`Js file = ${file}`);
+			fs.copyFile(`/home/megh/Documents/${file}`,`/home/megh/Documents/Js/${file}`, err=> {
+				if (err) return console.log(err);
+				console.log('Success');
+			})
 		}
     });
 });
