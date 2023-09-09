@@ -1,4 +1,4 @@
-1.git init - git Initialisation\ 2.git status - status of the git repo
+1.git init - git Initialisation<br /> 2.git status - status of the git repo
 (practice)\ 3.git add (filename) - stage the file\ 4.git commit
 (filename) - commiting the file (performance)\ 5.git rm --cached
 (filename) - removing staged file\ 6.git restore (filename) - deleting
