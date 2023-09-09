@@ -1,3 +1,4 @@
+
 1.git init - git Initialisation 
 2.git status - status of the git repo (practice)
 3.git add (filename) - stage the file 
