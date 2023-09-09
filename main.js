@@ -16,9 +16,12 @@ fs.readdir('/home/megh/Documents', function (err, files) {
         console.log(file); 
 		// find JS files and move them to Documents/Js
 		if ( file.includes(".js") === true ) {
+			//print files having .js extension
 			console.log(`Js file = ${file}`);
+			//copy .js files to another directory 
 			fs.copyFile(`/home/megh/Documents/${file}`,`/home/megh/Documents/Js/${file}`, err=> {
 				if (err) return console.log(err);
+				//print success after copying all the files 
 				console.log('Success');
 			})
 		}
