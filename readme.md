@@ -8,4 +8,4 @@ current and previous version<br /> 8.git log - shows the list of commitments<br 
 remote add origin https://github.com/(gitHub username)/(repository
 name).git - origin is the path where the remote repo points<br /> 11.git
 branch -M main - convert the current git branch to main branch<br /> 12.git
-push -u origin main - push the repositories in current main branch
+push -u origin main - push the repositories in current main branch<br /> 13.git clone (https....) -clones all github repoitory files to your pc
