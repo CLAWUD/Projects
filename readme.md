@@ -7,7 +7,7 @@
 8. git diff - shows the difference between current and previous version
 9. git log - shows the list of commitments
 10. git diff (commit_hash) (commit_hash) - diff between two commits 
-11. git remote add origin [title](https://github.com/(gitHub username)/(repository name).git) - origin is the path where the remote repo points
+11. git remote add origin [GITHUB REPO LINK](https://github.com/(gitHub username)/(repository name).git) - origin is the path where the remote repo points
 12. git branch -M main - convert the current git branch to main branch
 13. git push -u origin main - push the repositories in current main branch
 14. git clone (https....) -clones all github repoitory files to your pc
