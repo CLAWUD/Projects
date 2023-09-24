@@ -1,3 +1,15 @@
+1.git init - intialize git in folder
+2.git status - status of git repo ( practice )
+
+
+
+
+
+
+
+
+
+
 <ol> 
   <li>git init - git Initialisation</li>
   <li>git status - status of the git repo(practice)</li>
