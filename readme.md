@@ -1,7 +1,5 @@
-1.git init - intialize git in
-folder
-2.git status - status of git repo 
-( practice )
+1. git init - intialize git in folder
+2. git status - status of git repo  ( practice )
 
 
 
